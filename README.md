@@ -6,6 +6,10 @@ The [The Movie Database](https://developers.themoviedb.org/3/getting-started/int
 ## How to install
 * [Register on the TMDB website](https://www.themoviedb.org/signup)
 * [Get the TMDB api key](https://www.themoviedb.org/settings/api/request)
+* Python3 should be already installed. Then use pip (or pip3, if there is a conflict with Python2) to install dependencies:
+```
+pip install -r requirements.txt
+```
 
 ### Script run order
 Run the scripts in the following order and follow the instructions on the screen:
